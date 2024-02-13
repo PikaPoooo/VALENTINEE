@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #fce4ec; /* Light pink background color */
+}
+
+.container {
+    text-align: center;
+    color: #333; /* Dark text color */
+}
+
+h1 {
+    color: #ff5757; /* Red title */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for the title */
+}
+
+p {
+    color: #555; /* Darker gray text */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ff5757; /* Red background color for the button */
+    color: #fff; /* White text color */
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Box shadow for the button */
+    margin: 10px;
+}
